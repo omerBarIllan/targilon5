@@ -1,0 +1,3 @@
+C:/bar_ilan_prog/progyear4/mitkadmim2024/targilonim/tar5/tar5/cmake-build-debug/CMakeFiles/tar5.dir
+C:/bar_ilan_prog/progyear4/mitkadmim2024/targilonim/tar5/tar5/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/bar_ilan_prog/progyear4/mitkadmim2024/targilonim/tar5/tar5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
